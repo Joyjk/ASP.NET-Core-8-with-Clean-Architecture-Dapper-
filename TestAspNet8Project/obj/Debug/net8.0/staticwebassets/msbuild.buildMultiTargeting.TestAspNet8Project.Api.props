@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestAspNet8Project.Api.props" />
+</Project>

@@ -1,0 +1,34 @@
+G:\GitProject\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Infrastructure.deps.json
+G:\GitProject\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Infrastructure.dll
+G:\GitProject\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Infrastructure.pdb
+G:\GitProject\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Application.dll
+G:\GitProject\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Application.pdb
+G:\GitProject\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.csproj.AssemblyReference.cache
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.AssemblyInfoInputs.cache
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.AssemblyInfo.cs
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.csproj.CoreCompileInputs.cache
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspN.C89DAC6D.Up2Date
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.dll
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\refint\TestAspNet8Project.Infrastructure.dll
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.pdb
+G:\GitProject\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\ref\TestAspNet8Project.Infrastructure.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Infrastructure.deps.json
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Infrastructure.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Infrastructure.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Application.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Application.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\bin\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.csproj.AssemblyReference.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.AssemblyInfoInputs.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.AssemblyInfo.cs
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.csproj.CoreCompileInputs.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspN.C89DAC6D.Up2Date
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\refint\TestAspNet8Project.Infrastructure.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\TestAspNet8Project.Infrastructure.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Infrastructure\obj\Debug\net8.0\ref\TestAspNet8Project.Infrastructure.dll

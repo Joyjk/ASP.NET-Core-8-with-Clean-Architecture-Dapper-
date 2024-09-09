@@ -1,0 +1,30 @@
+G:\GitProject\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Application.deps.json
+G:\GitProject\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Application.dll
+G:\GitProject\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Application.pdb
+G:\GitProject\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.csproj.AssemblyReference.cache
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.AssemblyInfoInputs.cache
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.AssemblyInfo.cs
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.csproj.CoreCompileInputs.cache
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspN.9FECAD3D.Up2Date
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.dll
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\refint\TestAspNet8Project.Application.dll
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.pdb
+G:\GitProject\TestAspNet8Project.Application\obj\Debug\net8.0\ref\TestAspNet8Project.Application.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Application.deps.json
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Application.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Application.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\bin\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.csproj.AssemblyReference.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.AssemblyInfoInputs.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.AssemblyInfo.cs
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.csproj.CoreCompileInputs.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspN.9FECAD3D.Up2Date
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\refint\TestAspNet8Project.Application.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\TestAspNet8Project.Application.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Application\obj\Debug\net8.0\ref\TestAspNet8Project.Application.dll

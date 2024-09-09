@@ -1,0 +1,22 @@
+G:\GitProject\TestAspNet8Project.Domain\bin\Debug\net8.0\TestAspNet8Project.Domain.deps.json
+G:\GitProject\TestAspNet8Project.Domain\bin\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\TestAspNet8Project.Domain\bin\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.AssemblyInfoInputs.cache
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.AssemblyInfo.cs
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.csproj.CoreCompileInputs.cache
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\refint\TestAspNet8Project.Domain.dll
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\TestAspNet8Project.Domain\obj\Debug\net8.0\ref\TestAspNet8Project.Domain.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\bin\Debug\net8.0\TestAspNet8Project.Domain.deps.json
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\bin\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\bin\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.AssemblyInfoInputs.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.AssemblyInfo.cs
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.csproj.CoreCompileInputs.cache
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\refint\TestAspNet8Project.Domain.dll
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\TestAspNet8Project.Domain.pdb
+G:\GitProject\ASP.NET 8 Project\TestAspNet8Project.Domain\obj\Debug\net8.0\ref\TestAspNet8Project.Domain.dll
